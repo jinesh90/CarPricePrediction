@@ -1,0 +1,3 @@
+TO CREATE AND RUN FLASK APP ON DOCKER, FOLLOW COMMANDS
+`sudo docker-compose build`
+`sudo docker-compose up`
