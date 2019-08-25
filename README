@@ -1,3 +1,5 @@
+# To Read Blog Go to
+https://medium.com/@jineshpatel_40678/deploying-linear-regression-ml-model-as-web-application-on-docker-3409f9464a27
 TO CREATE AND RUN FLASK APP ON DOCKER, FOLLOW COMMANDS
 `sudo docker-compose build`
 `sudo docker-compose up`
